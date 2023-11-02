@@ -69,8 +69,8 @@ git clone https://github.com/maximoortelli/Decode-Morse-Message.git
 
 👤 **Maximo Ortelli**
 
-- GitHub: [@Maximo Ortelli](https://github.com/ClaudiaRojasSoto)
-- LinkedIn: [Maximo Ortelli](https://www.linkedin.com/in/claudia-rojas-soto/)
+- GitHub: [@Maximo Ortelli](https://github.com/maximoortelli)
+- LinkedIn: [Maximo Ortelli](https://www.linkedin.com/in/maximo-ortelli-rueda/)
 
 👤 **Ivonne Benites**
 
