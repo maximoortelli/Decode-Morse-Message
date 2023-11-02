@@ -70,11 +70,11 @@ git clone https://github.com/maximoortelli/Decode-Morse-Message.git
 👤 **Maximo Ortelli**
 
 - GitHub: [@Maximo Ortelli](https://github.com/ClaudiaRojasSoto)
-- LinkedIn: [Maximo Ortelli](https://www.linkedin.com/in/claudia-rojas-soto/)
+- LinkedIn: [Maximo Ortelli](https://www.linkedin.com/in/maximo-ortelli-rueda/)
 
 👤 **Ivonne Benites**
 
-- GitHub: [@Ivonne Benites](https://github.com/IvonneBenitesRodriguez)
+- GitHub: [@Ivonne Benites](https://github.com/maximoortelli)
 - LinkedIn: [Ivonne Benites](https://www.linkedin.com/in/ivonnebenites/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
